@@ -1,0 +1,12 @@
+<?php
+session_start();
+if(isset($_GET['logout']))
+{
+session_destroy();
+?>
+<script>
+window.location.href='../index.php';
+</script>
+<?php
+}
+?>
