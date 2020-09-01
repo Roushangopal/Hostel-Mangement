@@ -79,7 +79,7 @@ img {margin-bottom: -7px}
 
 
 <div id="footer">
-          &copy 2019 www.vitb.ac.in | All Rights Reserved |  Design & Developed by : <a href="https://www.instagram.com/roushan_gopal/" style="color: #fff" target="_blank">Roushan Raja</a></a>
+          &copy 2019 www.vkitbangalore.com | All Rights Reserved |  Design & Developed by : <a href="https://www.instagram.com/roushan_gopal/" style="color: #fff" target="_blank">Roushan Raja</a></a>
     </div>
  
 <script>

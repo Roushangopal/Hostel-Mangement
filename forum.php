@@ -31,7 +31,7 @@
   </div>
 
 <footer class="w3-container w3-black w3-padding-16">
-  <p style="text-align:right;"> &copy 2019 www.vitb.ac.in | All Rights Reserved |  Design & Developed by : <a href="https://www.instagram.com/roushan_gopal/" style="color: #fff" target="_blank">Roushan Raja</a></a></p>
+  <p style="text-align:right;"> &copy 2019 www.vkitbangalore.com | All Rights Reserved |  Design & Developed by : <a href="https://www.instagram.com/roushan_gopal/" style="color: #fff" target="_blank">Roushan Raja</a></a></p>
 </footer>
 
 </body>

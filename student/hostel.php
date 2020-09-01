@@ -238,8 +238,8 @@
                     <div >
                         <p><h4><strong>Bengaluru,India</strong>
 						</h4></p>
-                        <h4><strong>Call:</strong> 7488453995 </h4>
-                        <h4><strong>Email: </strong>info@vkit</h4>
+                        <h4><strong>Call:</strong> 7625013435, 08028437696 </h4>
+                        <h4><strong>Email: </strong>admissionatvkit@gmail.com</h4>
                     </div>
 
 
@@ -249,9 +249,9 @@
                     <h2 ><strong>Social Conectivity </strong></h2>
         <hr />
                     <div >
-                        <a href="#">  <img src="images/facebook.png" alt="fb" /> </a>
+                        <a href="https://www.instagram.com/vkit_bangalore/">  <img src="images/facebook.png" alt="fb" /> </a>
                      <a href="#"> <img src="images/twitter.png" alt="twitter" /></a>
-                     <a href="#"> <img src="images/instagram.png" alt="insta" style="width:23%"/></a>
+                     <a href="https://wwww.facebook.com/vkitprincipalbengaluru"> <img src="images/instagram.png" alt="insta" style="width:23%"/></a>
                     </div>
                     </div>
 

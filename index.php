@@ -109,7 +109,7 @@
 </div>
 
 <footer class="w3-container w3-padding-10" style="background-color:rgb(10, 57, 71);">
-  <p style="text-align:right"> &copy 2019 www.vitb.ac.in | All Rights Reserved |  Design & Developed by : <a href="https://www.instagram.com/roushan_gopal/" target="_blank">Roushan Raja</a></p>
+  <p style="text-align:right"> &copy 2019 www.vkitbangalore.com | All Rights Reserved |  Design & Developed by : <a href="https://www.instagram.com/roushan_gopal/" target="_blank">Roushan Raja</a></p>
 </footer>
 
 </body>
