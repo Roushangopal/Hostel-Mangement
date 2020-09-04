@@ -15,7 +15,7 @@
 
     <div class="w3-padding-64">
       <a href="admin/admin_signin.php" class="w3-button w3-block w3-black w3-hover-blue-grey w3-padding-16">ADMIN</a>
-      <a href="login.php" class="w3-button w3-block w3-hover-teal w3-padding-16">SIGN IN</a>
+      <a href="student/hostel.php" class="w3-button w3-block w3-hover-teal w3-padding-16">HOSTEL</a>
       <a href="mess.php" class="w3-button w3-block w3-hover-dark-grey w3-padding-16">MESS</a>
       <a href="forum.php" class="w3-button  w3-block w3-hover-brown w3-padding-16">COMPLAINT FORUM</a>
     </div>
